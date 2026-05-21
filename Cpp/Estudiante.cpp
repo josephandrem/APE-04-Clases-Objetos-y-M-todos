@@ -1,24 +1,3 @@
-/*
- * ============================================================
- *  SISTEMA DE CONTROL DE ESTUDIANTES Y CALIFICACIONES
- *  Asignatura: Algoritmos y Lógica de Programación
- *  Guía: SW-AyLP-APE-04 - Clases, Objetos y Métodos
- *  Lenguaje: C++
- * ============================================================
- *
- *  Descripción:
- *    Programa que registra información de estudiantes, calcula
- *    promedios y determina si aprueban o reprueban (promedio >= 7).
- *
- *  Buenas prácticas aplicadas:
- *    - Encapsulamiento: atributos privados con getters/setters
- *    - Responsabilidad única: cada método hace una sola tarea
- *    - Validación de datos en los setters
- *    - Comentarios explicativos en cada sección
- *    - Nombres de variables y métodos descriptivos
- * ============================================================
- */
-
 #include <iostream>   // Para cin y cout
 #include <iomanip>    // Para setprecision (formateo de decimales)
 #include <string>     // Para el tipo string
