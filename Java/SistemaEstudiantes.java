@@ -1,29 +1,3 @@
-/*
- * ============================================================
- *  SISTEMA DE CONTROL DE ESTUDIANTES Y CALIFICACIONES
- *  Asignatura: Algoritmos y Lógica de Programación
- *  Guía: SW-AyLP-APE-04 - Clases, Objetos y Métodos
- *  Lenguaje: Java
- * ============================================================
- *
- *  Descripción:
- *    Programa que registra información de estudiantes, calcula
- *    promedios y determina si aprueban o reprueban (promedio >= 7).
- *
- *  Estructura de archivos:
- *    Este archivo contiene DOS clases en el mismo .java para
- *    facilitar la entrega. En un proyecto real, cada clase
- *    iría en su propio archivo (.java).
- *
- *  Buenas prácticas aplicadas:
- *    - Encapsulamiento: atributos privados con getters/setters
- *    - Responsabilidad única: cada método hace una sola tarea
- *    - Validación de datos en los setters
- *    - Javadoc en métodos públicos
- *    - Nombres de variables y métodos en camelCase (convención Java)
- * ============================================================
- */
-
 import java.util.ArrayList;   // Lista dinámica de estudiantes
 import java.util.Scanner;      // Lectura de datos desde consola
 
